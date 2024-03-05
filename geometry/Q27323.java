@@ -34,8 +34,17 @@ A, B 는 정수이다.
 예제 출력 3
 16
  */
-package 기하;
+package geometry;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class Q27323 {
-
+    public static void main(String args[]) throws IOException{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int w = Integer.parseInt(br.readLine());
+        int h = Integer.parseInt(br.readLine());
+        System.out.println(w*h);
+    }
 }
