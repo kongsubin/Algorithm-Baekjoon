@@ -26,7 +26,7 @@ range : range + 6
 range A : range A + 6 * i
 range B : range A + range
  */
-package 일반수학1;
+package gmath1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

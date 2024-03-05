@@ -50,7 +50,7 @@ n >= (v-b)/(a-b)
 14 / 4 = 3.xxxxxx
 999999946 / 46 = 21739130.xxxxxx
  */
-package 일반수학1;
+package gmath1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -74,7 +74,7 @@ X가 주어졌을 때, X번째 분수를 구하는 프로그램을 작성하시�
 15
 https://st-lab.tistory.com/74
  */
-package 일반수학1;
+package gmath1;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -26,7 +26,7 @@ M이상 N이하의 자연수 중 소수인 것을 모두 찾아 첫째 줄에 �
 예제 출력 2
 -1
  */
-package 약수배수와소수;
+package divmultiprime;
 
 import java.io.BufferedReader;
 import java.io.IOException;

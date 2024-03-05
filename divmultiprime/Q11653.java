@@ -35,7 +35,7 @@ N의 소인수분해 결과를 한 줄에 하나씩 오름차순으로 출력한
 97
 103
  */
-package 약수배수와소수;
+package divmultiprime;
 
 import java.io.BufferedReader;
 import java.io.IOException;

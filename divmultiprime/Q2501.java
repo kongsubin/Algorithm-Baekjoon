@@ -36,7 +36,7 @@
 1
 
  */
-package 약수배수와소수;
+package divmultiprime;
 
 import java.io.BufferedReader;
 import java.io.IOException;

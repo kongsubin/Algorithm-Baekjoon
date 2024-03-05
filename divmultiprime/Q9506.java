@@ -30,7 +30,7 @@ n이 완전수가 아니라면 n is NOT perfect. 를 출력한다.
 12 is NOT perfect.
 28 = 1 + 2 + 4 + 7 + 14
  */
-package 약수배수와소수;
+package divmultiprime;
 
 import java.io.BufferedReader;
 import java.io.IOException;

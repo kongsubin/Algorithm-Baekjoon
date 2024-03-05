@@ -25,7 +25,7 @@
 1 0 0 0
 7 1 1 4
  */
-package 일반수학1;
+package gmath1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
